@@ -1,0 +1,77 @@
+[
+  {
+    "customerId": "cust1",
+    "amount": 180.59,
+    "date": "2025-03-24T11:48:06"
+  },
+  {
+    "customerId": "cust1",
+    "amount": 134.85,
+    "date": "2025-03-25T11:48:06"
+  },
+  {
+    "customerId": "cust1",
+    "amount": 176.77,
+    "date": "2025-04-06T11:48:06"
+  },
+  {
+    "customerId": "cust1",
+    "amount": 133.19,
+    "date": "2025-04-22T11:48:06"
+  },
+  {
+    "customerId": "cust1",
+    "amount": 171.81,
+    "date": "2025-05-25T11:48:06"
+  },
+  {
+    "customerId": "cust2",
+    "amount": 114.45,
+    "date": "2025-05-09T11:48:06"
+  },
+  {
+    "customerId": "cust2",
+    "amount": 170.19,
+    "date": "2025-06-02T11:48:06"
+  },
+  {
+    "customerId": "cust2",
+    "amount": 182.15,
+    "date": "2025-04-23T11:48:06"
+  },
+  {
+    "customerId": "cust2",
+    "amount": 85.36,
+    "date": "2025-04-15T11:48:06"
+  },
+  {
+    "customerId": "cust2",
+    "amount": 67.43,
+    "date": "2025-04-18T11:48:06"
+  },
+  {
+    "customerId": "cust3",
+    "amount": 128.46,
+    "date": "2025-03-24T11:48:06"
+  },
+  {
+    "customerId": "cust3",
+    "amount": 182.8,
+    "date": "2025-03-21T11:48:06"
+  },
+  {
+    "customerId": "cust3",
+    "amount": 67.03,
+    "date": "2025-03-07T11:48:06"
+  },
+  {
+    "customerId": "cust3",
+    "amount": 126.64,
+    "date": "2025-04-26T11:48:06"
+  },
+  {
+    "customerId": "cust3",
+    "amount": 162.39,
+    "date": "2025-03-30T11:48:06"
+  }
+]
